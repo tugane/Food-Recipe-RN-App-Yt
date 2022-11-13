@@ -1,12 +1,10 @@
-# -Food-Recipe-RN-App-Yt
-
-# React-Native-Expo-Travel-Yt
+# Food-Recipe-RN-App-Yt
 
 ## Get Started
 
 ## Step1
 
-install dev dependences
+install dev dependencies
 
 ### `npm install`
 
